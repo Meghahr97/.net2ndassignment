@@ -1,0 +1,6 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\2nddayassignment\1stone\bin\Debug\1stone.exe.config
+c:\users\nexwave\documents\visual studio 2015\Projects\2nddayassignment\1stone\bin\Debug\1stone.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\2nddayassignment\1stone\bin\Debug\1stone.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\2nddayassignment\1stone\obj\Debug\1stone.csprojResolveAssemblyReference.cache
+c:\users\nexwave\documents\visual studio 2015\Projects\2nddayassignment\1stone\obj\Debug\1stone.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\2nddayassignment\1stone\obj\Debug\1stone.pdb
